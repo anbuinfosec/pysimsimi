@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.vnev/
+
+# Distribution / packaging
+build/
+dist/
+pysimsimi.egg-info/
+
+# IDEs & editors
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test results
+*.pytest_cache/
+
+# Backup files
+*.bak
+*.swp
